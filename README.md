@@ -11,14 +11,22 @@ To find the total daily volume and yearly return for each stock. Daily volume is
 
 ## Analysis and Challenges
 
-### All Stocks 2017
+### All Stocks 2017 Before Refactoring
 
-![VBA_Challenge_2017]
+![Before_Refactoring2017]
+
+### All Stocks 2017 After Refactoring
+
+![VBA_Challenge_2017](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
 Base on the line chart, 
 
-### All Stocks 2018
+### All Stocks 2018 Before Refactoring
+![Before_Refactoring2018](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/All-Stocks-2018.png)
 
-![VBA_Challenge_2018]
+### All Stocks 2018 After Refactoring
+![VBA_Challenge_2018](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 According to the line chart, the most successful outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
 
 ### Challenges and Difficulties Encountered
