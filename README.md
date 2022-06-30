@@ -11,6 +11,8 @@ To find the total daily volume and yearly return for each stock. Daily volume is
 
 ### Results Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
+Base on the table for 2017 and 2018, Overall Tickers in 2017 are get a positive return. The Stocks that get the  return  over than 100% are DQ which is 199.45%, SEDG and ENPH. While TERP is the only stock that get in negative return, which is -7.21%.  On the other hand, the overall Tickers in 2018 are in the negative return. 
+
 ## All Stocks 2017 Original Script
 
 ![Before_Refactoring2017](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/All-Stocks-2017.png)
