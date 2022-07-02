@@ -18,7 +18,7 @@ Base on tables below, the stocks performance between 2017 and 2018 are totally d
 
 ![VBA_Challenge_2017](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-### All Stocks 2017 Original Script and Refactored Script
+### All Stocks 2018 Original Script and Refactored Script
 
 ![VBA_Challenge_2018](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
