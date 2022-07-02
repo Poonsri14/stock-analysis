@@ -9,9 +9,11 @@ Steve loves the workbook I prepared for him. At the click of a Run all Stocks bu
 
 To find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year by editing and refactoring the code successfully made the VBA script run faster. 
 
-### Results Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+### Results 
 
-Base on the table for 2017 and 2018, Overall Tickers in 2017 are get a positive return. The Stocks that get the  return  over than 100% are DQ which is 199.45%, SEDG and ENPH. While TERP is the only stock that get in negative return, which is -7.21%.  On the other hand, the overall Tickers in 2018 are in the negative return. 
+Base on tables below, the stocks performance between 2017 and 2018 are totally different. Overall for Stocks performance in 2017 have been positive return. The stocks get return over 100% are DQ which is 199.45%, SEDG and ENPH. While TERP is the only stock that has negative return, which is -7.21%.  On the other hand, the overall stocks performance in 2018 are in the negative return. However,there are two stocks that have been in positive return, which are ENPH has dropped from 129.52% in 2017 to 81.7% in 2018 and RUN has significantly jumped from 5.55% in 2017 to 84% in 2018.
+
+According to the pictures  below, the pop up time boxes are showing that Refactored Script code successfully made VBA script run faster  than Original Script about 0.55 seconds for both years.
 
 ## All Stocks 2017 Original Script
 
@@ -21,15 +23,14 @@ Base on the table for 2017 and 2018, Overall Tickers in 2017 are get a positive 
 
 ![VBA_Challenge_2017](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-Base on the line chart, 
-
 ## All Stocks 2018 Original Script
 ![Before_Refactoring2018](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/All-Stocks-2018.png)
 
 ## All Stocks 2018 Refactored Script
 ![VBA_Challenge_2018](https://github.com/Poonsri14/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-According to the line chart, the most successful outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
+
+
 
 
 ### Summary: In a summary statement, address the following questions.
